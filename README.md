@@ -33,4 +33,4 @@ Use metrics like accuracy, precision, recall, and F1-score to evaluate your mode
 Optimize hyperparameters to improve the model's performance.
 
 
-This code snippet provides a basic framework to start with Iris flower classification using the k-Nearest Neighbors algorithm. You can experiment with different models and preprocessing techniques to improve the classification performance.
+This code provides a basic framework to start with Iris flower classification using the k-Nearest Neighbors algorithm. You can experiment with different models and preprocessing techniques to improve the classification performance.
